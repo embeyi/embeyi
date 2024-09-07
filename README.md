@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @embeyi
-- 👀 I’m interested in DATA ..
-- 🌱 I’m currently learning CLOUD ..
-- 💞️ I’m looking to collaborate on facts...
-- 📫 Reach out to me ..
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I’m a Data Engineer\Data Consultant  with extensive experience in designing, implementing, and managing robust data solutions. My expertise spans across database administration, data pipeline development, ETL processes, and optimizing SQL-based systems. I’m passionate about building scalable architectures and ensuring data integrity, security, and high availability.
 
-<!---
-embeyi/embeyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Areas of Expertise:
+Database Administration: SQL Server, PostgreSQL, MySQL, Database Replication, High Availability & Disaster Recovery
+Data Engineering: ETL Pipelines, Data Warehousing, Kafka, CDC, Data Migrations, and Integrations
+Cloud Platforms: AWS (EC2, RDS, S3), Azure
+Programming: SQL, Python, Bash
+Tools & Technologies: Apache Kafka, Hadoop, Spark, Docker, Kubernetes, Git, Jenkins, DBT
+I’m always looking to collaborate on projects that push the boundaries of data architecture and performance.
+
+Feel free to explore my repositories or connect with me!
