@@ -6,6 +6,6 @@ Data Engineering: ETL Pipelines, Data Warehousing, Kafka, CDC, Data Migrations, 
 Cloud Platforms: AWS (EC2, RDS, S3), Azure
 Programming: SQL, Python, Bash
 Tools & Technologies: Apache Kafka, Hadoop, Spark, Docker, Kubernetes, Git, Jenkins, DBT
-I’m always looking to collaborate on projects that push the boundaries of data architecture and performance. 
+I’m always looking to collaborate on projects that push the boundaries of data architecture and performance.
 
 Feel free to explore my repositories or connect with me!
