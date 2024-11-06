@@ -1,7 +1,7 @@
 ## Hey 👋, This is EMBEYI 
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ikechimbeyi)
+[![ikechimbeyi](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ikechimbeyi)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/embeyi)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-24292E?style=flat&logo=Google-Chrome&logoColor=white)](https://your-portfolio-url.com)
 
