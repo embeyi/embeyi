@@ -23,7 +23,7 @@ I’m always looking to collaborate on projects that push the boundaries of data
 Some facts about me:
 
 - 📸 I enjoy participating in professional events, especially those organized in Data Science community. 
-- 🗽 At the moment, I am training for the beingf a Data Specialist! 
+- 🗽 At the moment, I am training for the being a Data Specialist! 
 - 🎯 My goals for 2024: landing my dream job in data!
 
 ## Some of my Github Stats
